@@ -1,0 +1,8 @@
+JQuery
+ארבעת הסרטונים הראשונים - שעה ורבע.
+https://www.youtube.com/watch?v=3nrLc_JOF7k&list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc
+
+ES6
+שעה וחמישה
+אפשר לדלג על סרטון 2 ו- 11
+https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
