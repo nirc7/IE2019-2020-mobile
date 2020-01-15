@@ -73,7 +73,7 @@ export default class App extends React.Component {
     };
 
     // POST adds a random id to the object sent
-    fetch('http://proj.ruppin.ac.il/igroup96/test1/sendpushnotification', {
+    fetch('http://proj.ruppin.ac.il.../sendpushnotification', {
       method: 'POST',
       body: JSON.stringify(pnd),
       headers: {
